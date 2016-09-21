@@ -12,10 +12,12 @@ color: #337ab7;
 
 }
 .icon-and-text  {
-width: 100px !important
+width: 100px !important;
 
 }
-.misc-icon {
+.icon-and-text .misc-icon {
+  height: 42px !important;
+  margin-bottom: 10px !important;
   
 }
 .misc-icon:hover{
@@ -192,154 +194,154 @@ margin: 0 4px
 }
 
 #b-ftpusers-icon {
-background: url("https://www.softwex.com/img/whhg-icons/dark/ftpaccounts.svg") center center no-repeat;
+background: url("https://www.softwex.com/img/whhg-icons/dark/ftpaccounts.svg") center center/contain no-repeat;
 }
 #b-webmail-icon{
-background: url("https://www.softwex.com/img/whhg-icons/dark/webmail.svg") center center no-repeat;
+background: url("https://www.softwex.com/img/whhg-icons/dark/webmail.svg") center center/contain no-repeat;
 }
 #b-mailboxes-icon{
-background: url("https://www.softwex.com/img/whhg-icons/dark/mailbox.svg") center center no-repeat;
+background: url("https://www.softwex.com/img/whhg-icons/dark/mailbox.svg") center center/contain no-repeat;
 }
 #b-emailfw-icon{
-background: url("https://www.softwex.com/img/whhg-icons/dark/emailforward2.svg") center center no-repeat;
+background: url("https://www.softwex.com/img/whhg-icons/dark/emailforward2.svg") center center/contain no-repeat;
 }
 #b-emailca-icon{
-background: url("https://www.softwex.com/img/whhg-icons/dark/emailimport.svg") center center no-repeat;
+background: url("https://www.softwex.com/img/whhg-icons/dark/emailimport.svg") center center/contain no-repeat;
 }
 #b-emailfl-icon{
-background: url("https://www.softwex.com/img/whhg-icons/dark/emailtrace.svg") center center no-repeat;
+background: url("https://www.softwex.com/img/whhg-icons/dark/emailtrace.svg") center center/contain no-repeat;
 }
 #b-emailsmtp-icon{
-background: url("https://www.softwex.com/img/whhg-icons/dark/at.svg") center center no-repeat;
+background: url("https://www.softwex.com/img/whhg-icons/dark/at.svg") center center/contain no-repeat;
 }
 #b-emaillists-icon{
-background: url("https://www.softwex.com/img/whhg-icons/dark/mailinglists.svg") center center no-repeat;
+background: url("https://www.softwex.com/img/whhg-icons/dark/mailinglists.svg") center center/contain no-repeat;
 }
 #b-emailresp-icon{
-background: url("https://www.softwex.com/img/whhg-icons/dark/emailrefresh.svg") center center no-repeat;
+background: url("https://www.softwex.com/img/whhg-icons/dark/emailrefresh.svg") center center/contain no-repeat;
 }
 #b-emailsummary-icon{
-background: url("https://www.softwex.com/img/whhg-icons/dark/document.svg") center center no-repeat;
+background: url("https://www.softwex.com/img/whhg-icons/dark/document.svg") center center/contain no-repeat;
 }
 #b-junk-icon{
-background: url("https://www.softwex.com/img/whhg-icons/dark/spam.svg") center center no-repeat;
+background: url("https://www.softwex.com/img/whhg-icons/dark/spam.svg") center center/contain no-repeat;
 }
 #b-sitemap-icon{
-background: url("https://www.softwex.com/img/whhg-icons/dark/googleplus.svg") center center no-repeat;
+background: url("https://www.softwex.com/img/whhg-icons/dark/googleplus.svg") center center/contain no-repeat;
 }
 #b-webalizer-icon{
-background: url("https://www.softwex.com/img/whhg-icons/dark/analytics3.svg") center center no-repeat;
+background: url("https://www.softwex.com/img/whhg-icons/dark/analytics3.svg") center center/contain no-repeat;
 }
 #b-awstats-icon{
-background: url("https://www.softwex.com/img/whhg-icons/dark/awstats.svg") center center no-repeat;
+background: url("https://www.softwex.com/img/whhg-icons/dark/awstats.svg") center center/contain no-repeat;
 }
 #b-owa-icon{
-background: url("https://www.softwex.com/img/whhg-icons/dark/opensource.svg") center center no-repeat;
+background: url("https://www.softwex.com/img/whhg-icons/dark/opensource.svg") center center/contain no-repeat;
 }
 #b-log-icon{
-background: url("https://www.softwex.com/img/whhg-icons/dark/rawaccesslogs.svg") center center no-repeat;
+background: url("https://www.softwex.com/img/whhg-icons/dark/rawaccesslogs.svg") center center/contain no-repeat;
 }
 #b-counter-icon{
-background: url("https://www.softwex.com/img/whhg-icons/dark/abacus.svg") center center no-repeat;
+background: url("https://www.softwex.com/img/whhg-icons/dark/abacus.svg") center center/contain no-repeat;
 }
 #b-bwstats-icon{
-background: url("https://www.softwex.com/img/whhg-icons/dark/speed.svg") center center no-repeat;
+background: url("https://www.softwex.com/img/whhg-icons/dark/speed.svg") center center/contain no-repeat;
 }
 #b-tracewatch-icon{
-background: url("https://www.softwex.com/img/whhg-icons/dark/telescope.svg") center center no-repeat;
+background: url("https://www.softwex.com/img/whhg-icons/dark/telescope.svg") center center/contain no-repeat;
 }
 /*#b-piwik-icon{
-background: url("https://www.softwex.com/img/whhg-icons/dark/ftpaccounts.svg") center center no-repeat;
+background: url("https://www.softwex.com/img/whhg-icons/dark/ftpaccounts.svg") center center/contain no-repeat;
 }*/
 #b-dos_siteguard-icon{
-background: url("https://www.softwex.com/img/whhg-icons/dark/security2.svg") center center no-repeat;
+background: url("https://www.softwex.com/img/whhg-icons/dark/security2.svg") center center/contain no-repeat;
 }
 #b-databases-icon{
-background: url("https://www.softwex.com/img/whhg-icons/dark/uniF5FC.svg") center center no-repeat;
+background: url("https://www.softwex.com/img/whhg-icons/dark/uniF5FC.svg") center center/contain no-repeat;
 }
 #b-pwprotect-icon{
-background: url("https://www.softwex.com/img/whhg-icons/dark/lock2.svg") center center no-repeat;
+background: url("https://www.softwex.com/img/whhg-icons/dark/lock2.svg") center center/contain no-repeat;
 }
 #b-cron-icon{
-background: url("https://www.softwex.com/img/whhg-icons/dark/calendar2.svg") center center no-repeat;
+background: url("https://www.softwex.com/img/whhg-icons/dark/calendar2.svg") center center/contain no-repeat;
 }
 #b-subdomains-icon{
-background: url("https://www.softwex.com/img/whhg-icons/dark/subdomain.svg") center center no-repeat;
+background: url("https://www.softwex.com/img/whhg-icons/dark/subdomain.svg") center center/contain no-repeat;
 }
 #b-ipblock-icon{
-background: url("https://www.softwex.com/img/whhg-icons/dark/ipcontrol.svg") center center no-repeat;
+background: url("https://www.softwex.com/img/whhg-icons/dark/ipcontrol.svg") center center/contain no-repeat;
 }
 #b-autoindex-icon{
-background: url("https://www.softwex.com/img/whhg-icons/dark/indexmanager.svg") center center no-repeat;
+background: url("https://www.softwex.com/img/whhg-icons/dark/indexmanager.svg") center center/contain no-repeat;
 }
 #b-ssh-icon{
-background: url("https://www.softwex.com/img/whhg-icons/dark/ssh.svg") center center no-repeat;
+background: url("https://www.softwex.com/img/whhg-icons/dark/ssh.svg") center center/contain no-repeat;
 }
 #b-redirect-icon{
-background: url("https://www.softwex.com/img/whhg-icons/dark/redirect.svg") center center no-repeat;
+background: url("https://www.softwex.com/img/whhg-icons/dark/redirect.svg") center center/contain no-repeat;
 }
 #b-iis_app-icon{
-background: url("https://www.softwex.com/img/whhg-icons/dark/uniF547.svg") center center no-repeat;
+background: url("https://www.softwex.com/img/whhg-icons/dark/uniF547.svg") center center/contain no-repeat;
 }
 #b-iis_app_pool-icon{
-background: url("https://www.softwex.com/img/whhg-icons/dark/windows.svg") center center no-repeat;
+background: url("https://www.softwex.com/img/whhg-icons/dark/windows.svg") center center/contain no-repeat;
 }
 #b-php5ify-icon{
-background: url("https://www.softwex.com/img/whhg-icons/dark/php.svg") center center no-repeat;
+background: url("https://www.softwex.com/img/whhg-icons/dark/php.svg") center center/contain no-repeat;
 }
 #b-mod_pagespeed-icon{
-background: url("https://www.softwex.com/img/whhg-icons/dark/uniF006.svg") center center no-repeat;
+background: url("https://www.softwex.com/img/whhg-icons/dark/uniF006.svg") center center/contain no-repeat;
 }
 #b-du-icon{
-background: url("https://www.softwex.com/img/whhg-icons/dark/diskspace.svg") center center no-repeat;
+background: url("https://www.softwex.com/img/whhg-icons/dark/diskspace.svg") center center/contain no-repeat;
 }
 #b-modules-icon{
-background: url("https://www.softwex.com/img/whhg-icons/dark/uniF785.svg") center center no-repeat;
+background: url("https://www.softwex.com/img/whhg-icons/dark/uniF785.svg") center center/contain no-repeat;
 }
 #b-paths-icon{
-background: url("https://www.softwex.com/img/whhg-icons/dark/uniF786.svg") center center no-repeat;
+background: url("https://www.softwex.com/img/whhg-icons/dark/uniF786.svg") center center/contain no-repeat;
 }
 #b-htmlvalid-icon{
-background: url("https://www.softwex.com/img/whhg-icons/dark/html5.svg") center center no-repeat;
+background: url("https://www.softwex.com/img/whhg-icons/dark/html5.svg") center center/contain no-repeat;
 }
 #b-perlvalid-icon{
-background: url("https://www.softwex.com/img/whhg-icons/dark/perl.svg") center center no-repeat;
+background: url("https://www.softwex.com/img/whhg-icons/dark/perl.svg") center center/contain no-repeat;
 }
 #b-ping-icon{
-background: url("https://www.softwex.com/img/whhg-icons/dark/taskmanager.svg") center center no-repeat;
+background: url("https://www.softwex.com/img/whhg-icons/dark/taskmanager.svg") center center/contain no-repeat;
 }
 #b-whois-icon{
-background: url("https://www.softwex.com/img/whhg-icons/dark/domain2.svg") center center no-repeat;
+background: url("https://www.softwex.com/img/whhg-icons/dark/domain2.svg") center center/contain no-repeat;
 }
 #b-htmltidy-icon{
-background: url("https://www.softwex.com/img/whhg-icons/dark/uniF012.svg") center center no-repeat;
+background: url("https://www.softwex.com/img/whhg-icons/dark/uniF012.svg") center center/contain no-repeat;
 }
 #b-wb-icon{
-background: url("https://www.softwex.com/img/whhg-icons/dark/uniF517.svg") center center no-repeat;
+background: url("https://www.softwex.com/img/whhg-icons/dark/uniF517.svg") center center/contain no-repeat;
 }
 #b-wbp-icon{
-background: url("https://www.softwex.com/img/whhg-icons/dark/uniF519.svg") center center no-repeat;
+background: url("https://www.softwex.com/img/whhg-icons/dark/uniF519.svg") center center/contain no-repeat;
 }
 #b-dos_mobile_webbuilder-icon{
-background: url("https://www.softwex.com/img/whhg-icons/dark/mobile.svg") center center no-repeat;
+background: url("https://www.softwex.com/img/whhg-icons/dark/mobile.svg") center center/contain no-repeat;
 }
 #b-fileman-icon {
-  background: url("https://www.softwex.com/img/whhg-icons/dark/filemanager.svg") center center no-repeat;
+  background: url("https://www.softwex.com/img/whhg-icons/dark/filemanager.svg") center center/contain no-repeat;
 }
 #b-permissions-icon{
-  background: url("https://www.softwex.com/img/whhg-icons/dark/lock.svg") center center no-repeat;
+  background: url("https://www.softwex.com/img/whhg-icons/dark/lock.svg") center center/contain no-repeat;
 }
 #b-backup-icon{
-  background: url("https://www.softwex.com/img/whhg-icons/dark/zip.svg") center center no-repeat;
+  background: url("https://www.softwex.com/img/whhg-icons/dark/zip.svg") center center/contain no-repeat;
 }
 #b-password-icon{
-  background: url("https://www.softwex.com/img/whhg-icons/dark/password.svg") center center no-repeat;
+  background: url("https://www.softwex.com/img/whhg-icons/dark/password.svg") center center/contain no-repeat;
 }
 #b-exchange_mb-icon{
-  background: url("https://www.softwex.com/img/whhg-icons/dark/uniF548.svg") center center no-repeat;
+  background: url("https://www.softwex.com/img/whhg-icons/dark/uniF548.svg") center center/contain no-repeat;
 }
 #b-ssl-icon {
-  background: url("https://www.softwex.com/img/whhg-icons/dark/security.svg") center center no-repeat;
+  background: url("https://www.softwex.com/img/whhg-icons/dark/security.svg") center center/contain no-repeat;
 }
 #top-link-block a {
   padding-left: 25px;
